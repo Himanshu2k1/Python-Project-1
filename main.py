@@ -1,3 +1,4 @@
+"""This program reads headlines from selected 20 articles of a newspaper"""
 import requests
 import json
 
